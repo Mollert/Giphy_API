@@ -5,16 +5,20 @@ body {
 	background-color: 
 }
 
-#generic-button,
-#get-topic {
+#giphy-image {
+	margin-top: 30px;
+}
+
+.btn-default {
 	font: 18px bold arial, sans-serif;
 	font-weight: bold;
 	background-color: #B0C4DE;
 	padding: 10px;
 	border-radius: 6px;
-	margin: 16px 16px 16px 0px;
+	margin: 16px 16px 0px 0px;
 }
 
 p {
 	color: white;
+	margin-top: 20px;
 }
