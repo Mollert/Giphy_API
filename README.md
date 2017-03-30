@@ -1,1 +1,1 @@
-Did some work but still have issues
+I feel good about submitting this project.  I needed help for a couple of issues but those were mostly syntax.  I developed the idea to put the image and rating together in a separate div so I could then use CSS on them as a group.  Also using an if/else statement for switching from still to active image.  As with all of these I learned a lot.  And it seemed so easy from the start . . . .

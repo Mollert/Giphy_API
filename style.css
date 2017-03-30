@@ -2,11 +2,7 @@ body {
 	background-image: url("space_back.png");
 	font: 18px bold arial, sans-serif;
 	font-weight: bold;
-	background-color: 
-}
-
-#giphy-image {
-	margin-top: 30px;
+	background-color:
 }
 
 .btn-default {
@@ -18,7 +14,16 @@ body {
 	margin: 16px 16px 0px 0px;
 }
 
+.image-par {
+	float: left;
+	margin-left: 16px;
+}
+
+img {
+	margin-top: 16px;
+}
+
 p {
 	color: white;
-	margin-top: 20px;
+	margin-top: 10px;
 }
